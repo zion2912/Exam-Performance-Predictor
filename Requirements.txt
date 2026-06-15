@@ -1,7 +1,0 @@
-joblib==1.4.0
-streamlit
-pandas
-scikit-learn
-matplotlib
-seaborn
-faker
