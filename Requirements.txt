@@ -1,6 +1,6 @@
+joblib==1.4.0
 streamlit
 pandas
-joblib
 scikit-learn
 matplotlib
 seaborn
