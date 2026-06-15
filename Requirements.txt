@@ -3,5 +3,5 @@ pandas
 scikit-learn
 matplotlib
 seaborn
-joblib
+joblib==1.4.0
 faker
